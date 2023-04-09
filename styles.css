@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+h1,h2{
+    text-align: center;
+}
+h2:hover {
+    background-color: yellow;
+  }
+  h1:hover {
+    background-color: yellow;
+  }
